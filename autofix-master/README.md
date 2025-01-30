@@ -1,6 +1,5 @@
 <div align="center">
 
-
   <br />
   <br />
 
@@ -13,7 +12,3 @@ Autofix is a fully responsive car service website, <br />Responsive for all devi
 </div>
 
 <br />
-
-
-
-
